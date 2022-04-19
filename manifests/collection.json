@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://li4eu.github.io/iiif-4EU/manifests/owl.json",
+  "@id": "https://li4eu.github.io/iiif-4EU/manifests/collection.json",
   "protocol": "http://iiif.io/api/image",
   "width": 839,
   "height": 1000,
