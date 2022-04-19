@@ -1,7 +1,7 @@
 {
   "id" : "https://Li4EU.github.io/iiif-4EU/images/manifest.json",
   "label" : {
-    "en" : [ "All images loaded in Li4EU/iiif-4EU project" ]
+    "en" : [ "All images loaded in Li4EU/iiif-4EU project Reloaded" ]
   },
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
