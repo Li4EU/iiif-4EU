@@ -1,5 +1,3 @@
-// 20220419123015
-// https://li4eu.github.io/iiif-4EU/manifests/owl.json
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://li4eu.github.io/iiif-4EU/manifests/owl.json",
