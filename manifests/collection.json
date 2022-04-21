@@ -1,0 +1,13 @@
+{
+  "id" : "https://Li4EU.github.io/iiif-4EU/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Li4EU/iiif-4EU project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : null,
+    "@id" : "https://Li4EU.github.io/iiif-4EU/manifests/owl.json",
+    "label" : null
+  } ]
+}
